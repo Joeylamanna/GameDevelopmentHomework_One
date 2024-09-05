@@ -665,3 +665,12 @@ Start importing Assets/GameObject.prefab using Guid(b61eed58e4eea4a0d99399e8a46e
  -> (artifact id: 'b0771473b141e3a29229f7b344e96bc4') in 0.002778 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2656.353082 seconds.
+  path: Assets/GameObject.prefab
+  artifactKey: Guid(b61eed58e4eea4a0d99399e8a46ea1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameObject.prefab using Guid(b61eed58e4eea4a0d99399e8a46ea1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b0771473b141e3a29229f7b344e96bc4') in 0.016762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
